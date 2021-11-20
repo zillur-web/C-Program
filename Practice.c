@@ -1,5 +1,4 @@
 #include<stdio.h>
-int fnc(int x);
 int main(){
     int i,n,j;
     printf("Enter The Value Of n: ");
